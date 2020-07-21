@@ -1,0 +1,11 @@
+{
+  "name": "nextgenjs",
+  "version": "1.0.0",
+  "description": "Learning ES6+",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "V1niciusK",
+  "license": "UNLICENSED"
+}
